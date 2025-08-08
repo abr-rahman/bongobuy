@@ -1,0 +1,24 @@
+@media only screen and (min-width: 991px) and (max-width: 1023) {
+
+}
+
+@media only screen and (min-width: 1291px) and (max-width: 1302px) {
+    #popoverContent {
+        /* right: 13% !important; */
+    }
+}
+@media only screen and (min-width: 1302px) and (max-width: 1320px) {
+    #popoverContent {
+        /* right: 13% !important; */
+    }
+}
+
+.bg-footer-dark {
+    background-color: rgb(61 61 61);
+}
+.text-dark-footer {
+    color: #ddd;
+}
+.border-bottom-fave-500 {
+    border-bottom: 1px solid rgb(255 153 0);
+}
